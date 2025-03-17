@@ -2,9 +2,9 @@
 
 ## Project Description
 
-This repository contains my solutions for the Computer Vision (MYE046) course assignment from the Winter Semester 2024-2025. The assignment focuses on implementing machine learning and deep learning techniques for handwritten digit classification using the MNIST dataset. The project is divided into two main exercises:
+This repository contains my solutions for the Computer Vision (MYE046) course assignment from the Winter Semester 2024-2025. The assignment focuses on implementing machine learning and deep learning techniques for handwritten digit classification using the MNIST dataset. The project is divided into two main parts:
 
-- Exercise 1: Machine Learning
+- Part 1: Machine Learning
 
     - Data Visualization: Plotting MNIST digit samples.
 
@@ -17,7 +17,7 @@ This repository contains my solutions for the Computer Vision (MYE046) course as
     - Custom k-NN Implementation: A manual k-NN classifier without external libraries.
 
 
-- Exercise 2: Deep Learning
+- Part 2: Deep Learning
 
   - Environment Setup: Instructions for PyTorch installation (local/Colab).
 
